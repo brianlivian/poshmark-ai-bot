@@ -1,0 +1,13 @@
+# Core
+python-dotenv>=1.0.1
+pandas>=2.2.2
+requests>=2.32.3
+openai>=1.35.0
+
+# Browser automation
+selenium>=4.22.0
+webdriver-manager>=4.0.2
+
+# Scheduling & DB
+APScheduler>=3.10.4
+SQLAlchemy>=2.0.32
